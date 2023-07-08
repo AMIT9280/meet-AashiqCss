@@ -1,0 +1,18 @@
+<!-- 
+    1 ---- external  ----> Ex. style.css  
+    2 ---- internal  ----> <style> code </style>
+    3 ---- inline    ---->  <p style="color:red; "></p> 
+-->
+
+
+for class use .
+
+.className{
+
+}
+
+for id #
+
+#idName{
+
+}
